@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1584738448 source:c:\users\dominique\documents\c stuff\hw 07\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+
